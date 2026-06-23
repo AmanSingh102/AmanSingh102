@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate software developer</h3>
 
+<img align="right" alt="coding" width="400" scr="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZmeDR3cjNoNXFlanhmc2p0b3I3aHh4d2FjcmdwazRzOWk2dGRxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1448TKNMMg4BFu/giphy.gif">
+
 - 🌱 I’m currently learning **Web Development, Android Development, Artificial Learning**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-liart-mu.vercel.app/](https://myportfolio-liart-mu.vercel.app/)
