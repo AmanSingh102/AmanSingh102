@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnZmeDR3cjNoNXFlanhmc2p0b3I3aHh4d2FjcmdwazRzOWk2dGRxNiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/1448TKNMMg4BFu/giphy.gif">
-
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaThsbjc4dDBvY2NqbTg2MjhjOGY5NXk4cWc3dDZreXFxbWFkeGpoOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif">
+     
 - 🌱 I’m currently learning **Web Development, Android Development, Artificial Learning**
 
 - 👨‍💻 All of my projects are available at [https://myportfolio-liart-mu.vercel.app/](https://myportfolio-liart-mu.vercel.app/)
